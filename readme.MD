@@ -1,12 +1,11 @@
-# week-1-code-challange
-# (grade generator)
+# (Net Salary Calculator)
 
 #### Date, 2024/04/01
 
 #### By *Judah Luke Mumo*
 
 ## Description
-It's a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
+It's a  program  calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -34,4 +33,5 @@ github.com/hadujeluk
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
+
 

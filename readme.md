@@ -1,12 +1,12 @@
-# week-1-code-challange
-# (grade generator)
+# (speed detector)
 
 #### Date, 2024/04/01
 
 #### By *Judah Luke Mumo*
 
 ## Description
-It's a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
+It's a webpage that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -17,7 +17,6 @@ Git
 ### Installation instruction
 ```
 Git clone git@github.com:hadujeluk/week-1-code-challange.git
-
 ```
 
 # Live Link
@@ -34,4 +33,5 @@ github.com/hadujeluk
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
+
 
